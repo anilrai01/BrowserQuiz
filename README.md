@@ -1,1 +1,1 @@
-##Simple Quizz 
+## Simple Browser Quizz in JS
